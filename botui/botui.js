@@ -27,7 +27,7 @@
     }).then(function() {
         return botui.message.bot({
             delay: 1000,
-            content: "我是 爱哭的毛毛虫🍄"
+            content: "我是 PAAPI🍄"
         })
     }).then(function() {
         return botui.message.bot({
